@@ -12,17 +12,7 @@
 
 I'm a System Engineer and infrastructure enthusiast who thrives at the intersection of **system administration**, **observability**, and **cybersecurity**. Currently scaling enterprise IT infrastructure at **PhonePe**, I focus on building resilient systems through robust logging pipelines, endpoint protection, and security monitoring.
 
-```yaml
-current_focus:
-  - Detection Engineering
-  - DevSecOps practices
-  - Resilient Infrastructure Design
-  - AWS/Cloud Architecture
 
-philosophy: "I build to understand, and I break to secure."
-```
-
----
 
 ## 💼 What I Do
 
