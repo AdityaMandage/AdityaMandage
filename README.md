@@ -26,13 +26,13 @@ philosophy: "I build to understand, and I break to secure."
 
 ## 💼 What I Do
 
-**@ PhonePe (Nov 2025 - Present)**
+**System Engineer @ PhonePe** (Nov 2025 - Present)
 - 🔄 Migrated production Elastic cluster (single → 3-node) with **zero downtime**
 - 📊 Built custom Logstash pipelines & security-focused Kibana dashboards
 - 🛡️ Deployed Wazuh SIEM cluster for 6,000+ endpoints
 - 🔧 Manage enterprise infrastructure through weekly patch cycles
 
-**Previously:**
+**IT Infrastructure Intern @ PhonePe** (Jul 2025 - Oct 2025)
 - 📦 Managed BigFix patch deployment for 4,000+ Windows endpoints
 - ✅ Conducted CIS benchmark audits for macOS fleet (Jamf)
 - 🐧 Built on-prem Ubuntu repository infrastructure
@@ -105,38 +105,6 @@ Python-based forensic tool for automated email header analysis, IP geolocation, 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaMandage&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMandage&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎓 Certifications
-
-- 🏆 **Security Operations (SOC) Level 1** - TryHackMe (Jan 2025)
-- 🎯 **Junior Cybersecurity Analyst** - Cisco Networking Academy (Nov 2023)
-- ✅ **Google Cybersecurity Professional** - Google (Oct 2023)
-
----
-
-## 🏅 TryHackMe
-
-<div align="center">
-
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/AdityaMandage.png?2)](https://tryhackme.com/p/AdityaMandage)
-
-**Top 1% Ranking** • SOC, Detection & Blue Team Focus
-
-</div>
-
----
-
 ## 🔬 Homelab Experiments
 
 Currently running experiments with:
@@ -158,7 +126,5 @@ Currently running experiments with:
 <div align="center">
 
 **"Proactive security starts with strong observability."**
-
-![Visitor Count](https://profile-counter.glitch.me/AdityaMandage/count.svg)
 
 </div>
