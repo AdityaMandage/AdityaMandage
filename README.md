@@ -19,7 +19,6 @@ I'm a System Engineer and infrastructure enthusiast who thrives at the intersect
 **System Engineer @ PhonePe** (Nov 2025 - Present)
 - 🔄 Migrated production Elastic cluster (single → 3-node) with **zero downtime**
 - 📊 Built custom Logstash pipelines & security-focused Kibana dashboards
-- 🛡️ Deployed Wazuh SIEM cluster for 6,000+ endpoints
 - 🔧 Manage enterprise infrastructure through weekly patch cycles
 
 **IT Infrastructure Intern @ PhonePe** (Jul 2025 - Oct 2025)
